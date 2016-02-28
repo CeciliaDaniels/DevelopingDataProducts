@@ -1,0 +1,9 @@
+name: DDPShinyProject
+account: cdaniels
+server: shinyapps.io
+appId: 85813
+bundleId: 382272
+url: https://cdaniels.shinyapps.io/DDPShinyProject/
+when: 1456618161.21544
+asMultiple: FALSE
+asStatic: FALSE
